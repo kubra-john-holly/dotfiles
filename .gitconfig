@@ -1,0 +1,5 @@
+[alias]
+	graph = log --oneline --graph --decorate --all
+[user]
+	email = john.holly@kubra.com
+	name = John Holly

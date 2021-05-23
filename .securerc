@@ -1,0 +1,2 @@
+#export SECURE_VARIABLE=$(~/scripts/find-secret.sh user variable)
+
