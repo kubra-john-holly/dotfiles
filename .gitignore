@@ -1,31 +1,10 @@
-!.gitconfig
-!.gitignore
-!.securerc
-!.tmux.conf
-!.vimrc
-!.zshrc
-!scripts/**
 *
-# scripts/add-secret.sh
-# scripts/delete-secret.sh
-# scripts/find-secret.sh
-# scripts/install-tmux-deps.sh
-# scripts/install-vim-deps.sh
-# scripts/randompw.py
-# 
-# **/.DS_Store
-# .bash_history
-# .vim/
-# .viminfo
-# .zsh_history
-# .zsh_sessions/
-# .CFUserTextEncoding
-# Applications/
-# Desktop/
-# Documents/
-# Downloads/
-# Library/
-# Music/
-# Movies/
-# Pictures/
-# Public/
+!/.gitconfig
+!/.gitignore
+!/.securerc
+!/.tmux.conf
+!/.vimrc
+!/.zshrc
+!/.preview.png
+!/README.md
+!/scripts/**
