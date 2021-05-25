@@ -1,5 +1,7 @@
 # dotfiles
 
+![](.preview.png)
+
 ## Scripts
 
 | name | description |
